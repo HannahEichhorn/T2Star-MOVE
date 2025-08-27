@@ -1,6 +1,6 @@
 # Code supplementing the dataset "T2*-MOVE: An Open k-Space Dataset to Address Motion in T2* Quantification from Gradient Echo MRI"
 
-**Hannah Eichhorn**, Veronika Spieker, Elisa Saks, Christine Preibisch, Julia A. Schnabel
+**Hannah Eichhorn**, Elisa Saks, Veronika Spieker, Christine Preibisch, Julia A. Schnabel
 
 MRI | Magnetic Resonance Imaging | Raw Data | k-space | Motion Artifacts 
 
